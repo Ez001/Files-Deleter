@@ -1,1 +1,1 @@
-# Files-Deleter
+This script deletes file(s) in  a specific folder
